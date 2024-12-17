@@ -1,2 +1,2 @@
 # Assignment1
- This is for Assignment SQL Commands
+ This is for Assignments of SQL
